@@ -1,0 +1,3 @@
+[submodule "subreddit-comments-dl"]
+	path = subreddit-comments-dl
+	url = https://github.com/pistocop/subreddit-comments-dl.git
